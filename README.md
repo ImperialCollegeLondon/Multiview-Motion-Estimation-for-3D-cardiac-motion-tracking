@@ -1,6 +1,7 @@
-# Multiview-Motion-Estimation-for-3D-cardiac-motion-tracking
-Code for paper ''MulViMotion: Shape-aware 3D Myocardial Motion Tracking from Multi-View Cardiac MRI' 
+# Multiview Motion Estimation for 3D cardiac motion tracking
+Code for paper ''MulViMotion: Shape-aware 3D Myocardial Motion Tracking from Multi-View Cardiac MRI'' 
 
+[![DOI](https://zenodo.org/badge/459644907.svg)](https://zenodo.org/badge/latestdoi/459644907)
 
 <p align="center">
     <img src="framework.png" width="100%" height="100%">
